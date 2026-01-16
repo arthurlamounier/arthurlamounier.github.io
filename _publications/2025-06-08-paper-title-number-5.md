@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Counteracting effects of longleaf pine and sweetgum leaf litter on fuelbed flammability and post-fire tree regeneration across a canopy cover gradient"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2026-counteracting-effects-longleaf-sweetgum
+date: 2026-01-01
+venue: "Forest Ecology and Management"
+paperurl: "https://dx.doi.org/10.2139/ssrn.5553847"
+citation: "Lamounier Moura, A., Alexander, H., Willis, J. L., Fan, Z., & Aspinwall, M. J. (under review). <i>Counteracting effects of longleaf pine and sweetgum leaf litter on fuelbed flammability and post-fire tree regeneration across a canopy cover gradient.</i> Forest Ecology and Management."
+excerpt: "This study examines how longleaf pine and sweetgum leaf litter influence fuelbed flammability and tree regeneration across a gradient of canopy cover."
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This study investigates the effects of mixed-species leaf litter on fuelbed flammability and post-fire regeneration in southeastern U.S. forests. Using a combination of experimental and observational approaches, we measured flame duration, consumption, and seedling survival across canopy cover gradients, comparing pyrophytic and mesophytic species. The findings highlight that sweetgum-dominated fuelbeds reduce flame effectiveness, while pine and oak enhance flammability, influencing seedling regeneration patterns. Our results provide insights for fire management and restoration strategies in mixed-species forests.
