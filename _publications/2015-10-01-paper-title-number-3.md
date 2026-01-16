@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "The “Conhecimento Brasil” Program neglects the structural problems of Brazilian science and fails to offer a solution to the brain drain"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-conhecimento-brasil-program
+date: 2025-01-01
+venue: "Anais da Academia Brasileira de Ciências, 97(1), e20240496"
+paperurl: "https://doi.org/10.1590/0001-3765202520240496"
+citation: "Soares, B. E., Lamounier Moura, A., Araújo, V. N. D., Azevedo, N. H., Cardoso, A. C. A., Cardoso, M. R., ... & Vidor, C. B. (2025). <i>The “Conhecimento Brasil” Program neglects the structural problems of Brazilian science and fails to offer a solution to the brain drain.</i> Anais da Academia Brasileira de Ciências, 97(1), e20240496."
+excerpt: "This paper examines structural challenges in Brazilian science and evaluates the ‘Conhecimento Brasil’ Program."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
