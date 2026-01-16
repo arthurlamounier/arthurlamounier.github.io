@@ -1,12 +1,11 @@
 ---
-title: "Counteracting effects of longleaf pine and sweetgum leaf litter on fuelbed flammability and post-fire tree regeneration across a canopy cover gradient"
+title: "Nurse shrubs to mitigate plant invasion along roads of montane Neotropics"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-counteracting-effects-longleaf-sweetgum
-date: 2026-01-01
-venue: "Forest Ecology and Management"
-paperurl: "https://dx.doi.org/10.2139/ssrn.5553847"
-citation: "Lamounier Moura, A., Alexander, H., Willis, J. L., Fan, Z., & Aspinwall, M. J. (under review). <i>Counteracting effects of longleaf pine and sweetgum leaf litter on fuelbed flammability and post-fire tree regeneration across a canopy cover gradient.</i> Forest Ecology and Management."
-excerpt: "This study examines how longleaf pine and sweetgum leaf litter influence fuelbed flammability and tree regeneration across a gradient of canopy cover."
+permalink: /publication/2019-nurse-shrubs-invasion
+date: 2019-01-01
+venue: "Ecological Engineering, 136, 193–196"
+paperurl: "https://doi.org/10.1016/j.ecoleng.2019.06.024"
+citation: "Perea, R., Cunha, J. S., Spadeto, C., Gomes, V. M., Moura, A. L., Rúbia, B., Fernandes, G. W. (2019). <i>Nurse shrubs to mitigate plant invasion along roads of montane Neotropics.</i> Ecological Engineering, 136, 193–196."
+excerpt: "Investigates how nurse shrubs can reduce plant invasion along roads in montane Neotropics."
 ---
-This study investigates the effects of mixed-species leaf litter on fuelbed flammability and post-fire regeneration in southeastern U.S. forests. Using a combination of experimental and observational approaches, we measured flame duration, consumption, and seedling survival across canopy cover gradients, comparing pyrophytic and mesophytic species. The findings highlight that sweetgum-dominated fuelbeds reduce flame effectiveness, while pine and oak enhance flammability, influencing seedling regeneration patterns. Our results provide insights for fire management and restoration strategies in mixed-species forests.
