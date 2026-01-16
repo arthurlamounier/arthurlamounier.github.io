@@ -4,8 +4,6 @@ excerpt: "In this project, we are investigating the distribution patterns of lig
 
 <br/><img src='/images/kernel_density_maps.png'>"
 
-<br/><br/>
-
 collection: portfolio
 ---
 
