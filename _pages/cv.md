@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (updated on 1/16/2025)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## 1. Education
 
 * **Ph.D., Forestry**, Auburn University, Auburn, AL, 2025  
   *Dissertation*: “Mesophication in Southeastern U.S. forests: drivers of flammability and strategies for tree regeneration success” [Link](https://etd.auburn.edu/bitstream/handle/10415/9739/Lamounier%20Moura_Arthur_2025_Dissertation_Final.pdf)  
@@ -23,7 +23,7 @@ redirect_from:
 
 * **Undergraduate Split Program**, Roosevelt University, Chicago, IL, 2015
 
-## Work Experience
+## 2. Work Experience
 
 * **Postdoctoral Research Associate**, University of Florida, School of Forest, Fisheries, and Geomatics Sciences, 2025–Present
 * **Graduate Research Assistant**, Auburn University, College of Forestry, Wildlife and Environment, 2021–2025
@@ -32,18 +32,18 @@ redirect_from:
 * **Undergraduate Research Assistant**, The Field Museum, Chicago, IL, 2015
 * **Undergraduate Research Assistant**, Laboratory of Immunology and Parasite Genomics, UFMG, Brazil, 2012–2014
 
-## Peer-Reviewed Publications
+## 3. Peer-Reviewed Publications
 
 <ul>{% for post in site.publications reversed %}
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Outreach and Engagement
+## 4. Outreach and Engagement
 
 * Lamounier Moura, A., Alexander, H. D., & Cannon, J. B. (2024, June). *Hurricane Michael’s aftermath: how fuels and fire change after severe wind.* The Longleaf Leader, XVII (2), 24–26. [Link](https://longleafalliance.org/wp-content/uploads/2024/07/Longleaf-Leader-Summer-2024-FINAL.pdf)
 * 13th Warming Newsletter. November 2023. p. 10–11. [Link](https://doi.org/10.6084/m9.figshare.24492532)
 
-## Talks & Conferences
+## 5. Talks & Conferences
 
 ### Oral Presentations
 <ul>{% for post in site.talks reversed %}
@@ -60,7 +60,7 @@ redirect_from:
 ### Invited Non-conference Presentations
 * Lamounier Moura, A., Alexander, H. D. *Investigating the role of pine in reintroducing fire in hardwood forests of the Southeastern U.S.* Auburn Rotary Club Meeting, October 12, 2022.
 
-## Grants and Fellowships
+## 6. Grants and Fellowships
 
 * **Graduate Student Research Funding**, The Jones Center at Ichauway, $5,000
 * **James Henderson Dukes Memorial Fellowship in Forestry**, Auburn University, $2,000
@@ -73,14 +73,14 @@ redirect_from:
 **Unfunded:**  
 *Longleaf Alliance’s Owen Fellowship Award ($14,580)*
 
-## Awards (Chronological Order)
+## 7. Awards (Chronological Order)
 
 * 2023 Trailblazing Graduate Research Award – Ecological Society of America [Link](https://www.esa.org/students/awards/esa-student-section-students-awardees/) 
 * Student Leader of the Year Nominee – Auburn University 2023 Involvement Awards [Link](https://involve.auburn.edu/manage-an-organization/involvement-awards/)
 * 1st Place University-Wide Graduate Student Poster, Auburn Research Student Symposium, 2022 [Link](https://cws.auburn.edu/shared/files?id=159&filename=Grad-Undergrad-Student%20Poster%20Presentation%20Winners%202022.pdf)  
 * 1st Place Poster Competition – Graduate Student Research Symposium, 2021
 
-## Teaching
+## 8. Teaching
 
 ### Instructor
 1. High School Science Teacher (2018–2021), State School Lar dos Meninos, MG, Brazil
@@ -112,14 +112,14 @@ From Predictions to Hypotheses Testing.
 ### Lab Instructor
 * Forest Ecology, Auburn University (Spring 2022–2023)
 
-## Media Coverage
+## 9. Media Coverage
 
 * ESA Student Section Awardees. 2023 Awardees. April 2023 [Link](https://www.esa.org/students/awards/esa-student-section-students-awardees/)
 * Spotlight on Student Leadership, Auburn University, January 2023 [Link](https://cfwe.auburn.edu/arthur-lamounier-moura-spotlight-on-student-leadership/)
 * Auburn University graduate students awarded funding through federal Joint Fire Science Program. July 2022. [Link](https://ocm.auburn.edu/newsroom/news_articles/2022/07/140954-joint-fire-science-program.php)
 * Student Research Spotlight. May 2022. Auburn University Newsletter [Link](https://cws.auburn.edu/ovpr/pm/researchsymposia/student/2022Spot_ALMoura)
 
-## Professional Development
+## 10. Professional Development
 
 *	L-180 Human Factors in the Wildland Fire Service (January 29, 2024)
 *	S-130, Firefighter Training (Online Component), 2008 (January 21, 2023)
@@ -134,13 +134,13 @@ From Predictions to Hypotheses Testing.
 *	Auburn University, Drive Safety HE, EduRisk by United Educators (January 8, 2021)
 
 
-## Professional Affiliations
+## 11. Professional Affiliations
 
 * Association of Fire Ecology (2021–Present)  
 * Ecological Society of America (2022–Present)  
 * The Longleaf Alliance (2022–2023)
 
-## Service
+## 12. Service
 
 * Steering Committee, 7th Fire in Eastern Oak Forests Conference, 2023  
 * President, Auburn University Graduate Student Association, 2022–2023  
@@ -149,6 +149,6 @@ From Predictions to Hypotheses Testing.
 * Mentor, First Year Experience Office, Auburn University, 2022  
 * Volunteer Firefighter, Serra do Cipó National Park, MG, Brazil, 2019–2020
 
-## Journal Peer Review
+## 13. Journal Peer Review
 
 * Plant-Environment Interactions, 2023 – 1 article
