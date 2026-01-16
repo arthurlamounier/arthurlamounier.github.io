@@ -7,5 +7,5 @@ date: 2023-01-01
 venue: "Fire, 6, 265"
 paperurl: "https://doi.org/10.3390/fire6070265"
 citation: "Lamounier Moura, A., Negreiros, D., Fernandes, G. W. (2023). <i>Effects of Fire Frequency Regimes on Flammability and Leaf Economics of Non-Graminoid Vegetation.</i> Fire, 6, 265."
-excerpt: "Study of fire frequency effects on flammability and leaf economics traits of non-graminoid vegetation."
+excerpt:
 ---
