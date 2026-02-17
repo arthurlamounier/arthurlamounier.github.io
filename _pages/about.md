@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! Here you will find information about my research, current projects, and opportunities for collaboration.
+My name is Arthur Lamounier Moura, fire ecologist and currently a post-doc at the University of Florida.
+
+Here you will find information about my research, current projects, and opportunities for collaborations.
 
 Feel free to reach out via [email](arthurlamouniermoura@gmail.com).
 
-Thank you for stopping by.
-
-Arthur
+Thanks!
