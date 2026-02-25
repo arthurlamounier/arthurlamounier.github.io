@@ -1,13 +1,13 @@
 var addressPoints = [
   [
+    "Fuelbed structure and fire behavior trajectories following canopy loss in two contrasting fire-dependent forests<br />Ecological Society of America Annual Meeting; Long Beach, CA, USA",
+    33.7690164,
+    -118.191604
+  ],
+  [
     "Exploring the effects of fire return interval on resource-use strategies of pyrophytic and mesophytic species<br />2024 International Oak Symposium; Knoxville, TN, USA",
     35.9603948,
     -83.9210261
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
