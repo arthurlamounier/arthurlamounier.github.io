@@ -47,9 +47,18 @@ redirect_from:
 ## 5. Talks & Conferences
 
 ### Oral Presentations
-<ul>{% for post in site.talks reversed %}
-{% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+* Lamounier Moura, A., Alexander, H.D., Aspinwall, M. J., Schweitzer, C. J., Robertson, K. M., Willis, J. L. Exploring the effects of fire return interval on
+resource-use strategies of pyrophytic and mesophytic species. 2024 International Oak Symposium, Knoxville, TN, USA. October 7 - 10, 2024. Talk.
+* Lamounier Moura A., Alexander H. D., Cannon J. B., Willis, J. L., Fan Z., Aspinwall M. J. Fuelbed structure and fire behavior trajectories following canopy loss in two contrasting fire-dependent forests. Ecological Society of America Annual Meeting, Long Beach, CA, USA. August 4 - 9, 2024. Talk.
+* Lamounier Moura, A., Alexander, H. D., Willis, J. L., Fan Z., Aspinwall, M. J., Schweitzer, C. J., Robertson, K.M., Cannon, J. B. Mesophication in Southeastern U.S. forests: new perspectives on flammability, functional strategies, and management. North American Forest Ecology Workshop, Asheville, NC, USA. June 24 - 27, 2024. Talk.
+* Lamounier Moura, A., Alexander, H. D., Willis, J. L., Fan Z., Aspinwall, M. J., Cannon, J. B. Linking canopy disturbances, fuelbed structure and fire behavior: Insights from two contrasting fire-dependent forests. North American Forest Ecology Workshop - Hurricane Ecology and Management Organized Session, Asheville, NC, USA. June 24 - 27, 2024. Talk
+* Alexander, H. D., Cabrera, S., Lamounier Moura, A., Willis, J. L. Shifting forest structure and composition: Implications for flammability of mixed pine-oak stands of the southeastern U.S. North American Forest Ecology Workshop, Asheville, NC, USA. June 24 – 27, 2024. Invited Talk.
+* Lamounier Moura, A., Alexander, H.D., Aspinwall, M. J., Schweitzer, C. J., Robertson, K. M., Willis, J. L. Exploring the effects of fire return interval on resource-use strategies of pyrophytic and mesophytic species. 2023 Annual Meeting of the Ecological Society of America, August 2023.
+* Lamounier Moura, A., Alexander, H.D., Aspinwall, M. J., Schweitzer, C. J., Robertson, K. M., Willis, J. L. Exploring the effects of fire return interval on resource-use strategies of pyrophytic and mesophytic species. 2023 Auburn Research Student Symposium, Auburn University, March 2023.
+* Alexander, H. D., Willis, J. L., Babl-Plauche, E., McDaniel, J. K., Lamounier Moura, A. 2021. The role of tree-fire feedbacks in diminishing flammability of oak forests of the Central Hardwood Region. 9th International Fire Ecology and Management Congress. Virtual Talk, December 2021.
+<#<ul>{% for post in site.talks reversed %}>
+<#{% include archive-single-talk-cv.html %}>
+<#{% endfor %}</ul>>
 
 ### Poster Presentations
 *	Lamounier Moura, A., Alexander, H. D., Cannon, J. B. Fuelbed structure and fire behavior trajectories following canopy loss in two contrasting fire-dependent forests. 7th Fire in Eastern Oak Forests Conference, May 2023.
