@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (updated on 1/16/2025)"
+title: "CV (updated on 8/25/2026)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -25,7 +25,8 @@ redirect_from:
 
 ## 2. Work Experience
 
-* **Postdoctoral Research Associate**, University of Florida, School of Forest, Fisheries, and Geomatics Sciences, 2025–Present
+* **Postdoctoral Fellow and Instructor**, Catawba College, Department of Biology, 2026-Present
+* **Postdoctoral Research Associate**, University of Florida, School of Forest, Fisheries, and Geomatics Sciences, 2025–2026
 * **Graduate Research Assistant**, Auburn University, College of Forestry, Wildlife and Environment, 2021–2025
 * **High School & Middle School Science Teacher**, State Secretary of Minas Gerais, Brazil, 2018–2021
 * **Intern Biologist**, Carste Environmental Consulting, Minas Gerais, Brazil, 2016–2017
@@ -83,7 +84,12 @@ redirect_from:
 ## 8. Teaching
 
 ### Instructor
-1. High School Science Teacher (2018–2021), State School Lar dos Meninos, MG, Brazil
+1. Ecology and Evolution (BIOL 1503), Catawba College, Fall 2026.
+  * Taught Ecology and Evolution modules including lectures and labs as part of curriculum component of Biology, Pre-Med, and Bio-Chem majors.
+  * Mentored students in data analyses and development of independent studies.
+  *	Developed interdisciplinary assignments, including science communication podcasts, mock-conferences, and outreach activities.
+
+2. High School Science Teacher (2018–2021), State School Lar dos Meninos, MG, Brazil
   * Taught high school science courses to over 400 students each year, including biology, chemistry, and physics.
   *	Enhanced learning with field trips to museums, conservation areas, state parks and science centers.
   *	Developed a comprehensive curriculum which incorporated both hands-on and virtual activities.
