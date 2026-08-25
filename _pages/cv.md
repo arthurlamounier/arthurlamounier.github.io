@@ -56,10 +56,11 @@ resource-use strategies of pyrophytic and mesophytic species. 2024 International
 * Lamounier Moura, A., Alexander, H.D., Aspinwall, M. J., Schweitzer, C. J., Robertson, K. M., Willis, J. L. Exploring the effects of fire return interval on resource-use strategies of pyrophytic and mesophytic species. 2023 Annual Meeting of the Ecological Society of America, August 2023.
 * Lamounier Moura, A., Alexander, H.D., Aspinwall, M. J., Schweitzer, C. J., Robertson, K. M., Willis, J. L. Exploring the effects of fire return interval on resource-use strategies of pyrophytic and mesophytic species. 2023 Auburn Research Student Symposium, Auburn University, March 2023.
 * Alexander, H. D., Willis, J. L., Babl-Plauche, E., McDaniel, J. K., Lamounier Moura, A. 2021. The role of tree-fire feedbacks in diminishing flammability of oak forests of the Central Hardwood Region. 9th International Fire Ecology and Management Congress. Virtual Talk, December 2021.
-<#<ul>{% for post in site.talks reversed %}>
-<#{% include archive-single-talk-cv.html %}>
-<#{% endfor %}</ul>>
-
+{% comment %}
+<ul>{% for post in site.talks reversed %}
+{% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+{% endcomment %}
 ### Poster Presentations
 *	Lamounier Moura, A., Alexander, H. D., Cannon, J. B. Fuelbed structure and fire behavior trajectories following canopy loss in two contrasting fire-dependent forests. 7th Fire in Eastern Oak Forests Conference, May 2023.
 *	Lamounier Moura, A., Alexander, H. D., Willis, J. Flammability and regeneration impacts of increasing longleaf pine leaf litter contribution to the fuelbed of mixed pine- oak forests of the Southeastern U.S. 2022 Annual Meeting of the Ecological Society of America, August 2022.
