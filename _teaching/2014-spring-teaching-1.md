@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Catawba College, Department of Biology"
-date: Fall 2026 
+date: 2026-08-15 
 location: "Salisbury, NC, USA"
 ---
 
