@@ -28,11 +28,12 @@ main:
 
   - title: "CV"
     url: /cv/
+    
+  - title: "Literature"
+    url: "https://thepretty-lies.blogspot.com/"
 
   # - title: "CV"
   #   url: /cv-json/
 
   #- title: "Guide"
   #  url: /markdown/
-- title: "Literature"
-  url: "https://thepretty-lies.blogspot.com/"
