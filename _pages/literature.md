@@ -2,11 +2,13 @@
 layout: single
 title: "Literature"
 permalink: /literature/
+author_profile: true
 ---
 
-<script>
-  window.open("https://thepretty-lies.blogspot.com/", "_blank");
-</script>
+Click the button below to open my literature blog in a new browser tab:
 
-<p>Opening your literature site in a new tab...</p>
-<p>If it didn't open automatically, <a href="https://thepretty-lies.blogspot.com/" target="_blank" rel="noopener">click here to view your literature blog</a>.</p>
+<p style="text-align: center; margin: 40px 0;">
+  <a href="https://thepretty-lies.blogspot.com/" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--large">
+    Open Literature Blog &rarr;
+  </a>
+</p>
