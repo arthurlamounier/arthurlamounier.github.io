@@ -13,4 +13,15 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Automatically targets the Literature tab and forces it to open in a new tab
+    document.querySelectorAll('.masthead__menu-item a, .greedy-nav a').forEach(function(link) {
+      if (link.textContent.trim() === "Literature" || link.href.includes("thepretty-lies.blogspot.com")) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  });
+</script>
 <!-- end custom footer snippets -->
