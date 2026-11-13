@@ -29,7 +29,7 @@ main:
   - title: "CV"
     url: /cv/
     
-- title: "Literature"
+  - title: "Literature"
     url: /literature/
 
   # - title: "CV"
