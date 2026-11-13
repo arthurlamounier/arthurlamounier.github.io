@@ -30,7 +30,7 @@ main:
     url: /cv/
     
   - title: "Literature"
-    url: /literature/
+    url: "https://thepretty-lies.blogspot.com/"
 
   # - title: "CV"
   #   url: /cv-json/
