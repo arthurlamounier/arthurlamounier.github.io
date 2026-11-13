@@ -29,8 +29,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Literature"
-    url: "https://thepretty-lies.blogspot.com/"
+- title: "Literature"
+    url: /literature/
 
   # - title: "CV"
   #   url: /cv-json/
